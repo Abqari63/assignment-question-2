@@ -14,6 +14,9 @@ You are required to write a pure JavaScript function called `highlightHTMLConten
  */
 function highlightHTMLContent(htmlContent, plainText, plainTextPositions) {
   // your logic goes here
+  correspondHtmlContentIndex = plainTextPosition.map(({ start, end }) => {
+      
+  })
 }
 ```
 
